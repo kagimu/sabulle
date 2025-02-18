@@ -1,4 +1,4 @@
-"use client";
+
 import React from "react";
 import { Observer } from "tailwindcss-intersect";
 import { useEffect } from "react";
