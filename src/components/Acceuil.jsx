@@ -1,6 +1,6 @@
 import React from 'react';
 import Footer from './Footer';
-import Card from './card';
+import Card from './Card';
 import { ScrollParallax } from "react-just-parallax";
 import Productselection from './selectionbulle/productselection';
 
