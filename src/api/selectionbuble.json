@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "title": "Abonnement",
+    "description": "Abonnement unique offrant un accès à tous les services",
+    "price": 6.00,
+    "subscription_type": "Mensuel",
+    "image": "/abonnement.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Abonnement",
+    "description": "Abonnement unique offrant un accès à tous les services",
+    "price": 6.00,
+    "subscription_type": "Mensuel",
+    "image": "/abonnement.jpg"
+  },
+
+  {
+    "id": 1,
+    "title": "Abonnement",
+    "description": "Abonnement unique offrant un accès à tous les services",
+    "price": 6.00,
+    "subscription_type": "Mensuel",
+    "image": "/abonnement.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Abonnement",
+    "description": "Abonnement unique offrant un accès à tous les services",
+    "price": 6.00,
+    "subscription_type": "Mensuel",
+    "image": "/abonnement.jpg"
+  },
+  {
+    "id": 1,
+    "title": "Abonnement",
+    "description": "Abonnement unique offrant un accès à tous les services",
+    "price": 6.00,
+    "subscription_type": "Mensuel",
+    "image": "/abonnement.jpg"
+  }
+]
+  
+  

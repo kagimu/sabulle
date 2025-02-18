@@ -1,0 +1,571 @@
+
+
+
+{
+    "blog": [
+        {   
+            "id": 1,
+            "title": "1) Découvrez Sabulle : Là où le Luxe et la Détente se Rencontrent",
+            "description": "Présentation de Sabulle, son histoire et sa vision Bienvenue dans l’univers de Sabulle, une marque qui transcende le simple achat pour offrir une expérience unique où le luxe rencontre le...",
+            "date": "24 décembre 2024",
+            "image": "/Ecrin_bulle/blog/blog1.webp",
+            "content": [
+                {
+                    "title": "Présentation de Sabulle, son histoire et sa vision",
+                    "texts": [
+                        "Bienvenue dans l’univers de Sabulle, une marque qui transcende le simple achat pour offrir une expérience unique où le luxe rencontre le bien-être. Fondée sur une passion pour la qualité et l'authenticité, Sabulle se positionne comme un acteur incontournable dans les domaines du CBD et de la vape. Notre vision ? Sublimer chaque instant de votre quotidien grâce à des produits soigneusement sélectionnés, qui reflètent notre quête d’excellence et d’évasion sensorielle."
+                    ]
+                },
+                {
+                    "title": "Le concept de luxe et bien-être au cœur de nos produits",
+                    "texts": [
+                        "Chez Sabulle, nous croyons que chaque produit doit être une œuvre d’art. Qu’il s’agisse de nos fleurs de CBD aux arômes subtils ou de nos e-liquides aux saveurs riches, chaque détail est pensé pour vous offrir une expérience premium. Nous fusionnons élégance et bien-être, pour que chaque bouffée ou chaque moment de détente soit synonyme de sérénité et de raffinement."
+                    ]
+                },
+                {
+                    "title": "Nos engagements : qualité, légalité et satisfaction client",
+                    "texts": [
+                        "- Qualité : Tous nos produits sont soumis à des contrôles stricts et respectent les normes légales en vigueur. Nous collaborons avec des laboratoires certifiés pour garantir une transparence totale.",
+                        "- Légalité : Nos produits CBD contiennent un taux de THC inférieur à 0.3%, en parfaite conformité avec la réglementation.",
+                        "- Satisfaction client : Livraison rapide, service client dédié et des offres sur-mesure pour répondre à vos attentes."
+                    ]
+                },
+
+                {
+                    "title": "Pourquoi choisir Sabulle ?",
+                    "texts": [
+                        "- Livraison offerte dès 69€ : Profitez d’une expédition rapide et gratuite pour vos commandes.",
+                        "- Une sélection exclusive : Chaque produit est choisi avec soin pour garantir une expérience haut de gamme.",
+                        "- SABULLE Club : Découvrez notre programme de fidélité conçu pour récompenser nos clients les plus fidèles avec des avantages uniques."
+                    ]
+                },
+
+                {
+                    "title": "Conclusion",
+                    "texts": [
+                        "Sabulle, c’est bien plus qu’une boutique. C’est une invitation à découvrir un art de vivre où luxe et bien-être s’unissent. Plongez dans notre univers et laissez-vous séduire par des produits d’exception qui transformeront vos instants de détente. Explorez nos collections dès maintenant et faites de chaque moment une expérience inoubliable."
+                    ]
+                }
+
+            ]
+        },
+        {
+            "id": 2,
+            "title": "2) Un Art de Vivre : Intégrez Sabulle dans Votre Quotidien",
+            "description": "Pourquoi le bien-être est essentiel aujourd’hui Dans un monde où tout va vite, prendre soin de soi est devenu une priorité. Sabulle vous invite à adopter un art de vivre...", 
+            "date": "1 janvier 2025",
+            "image": "/Ecrin_bulle/blog/blog2.webp",
+            "content": [
+                {
+                    "title": "Pourquoi le bien-être est essentiel aujourd’hui",
+                    "texts": [
+                        "Dans un monde où tout va vite, prendre soin de soi est devenu une priorité. Sabulle vous invite à adopter un art de vivre axé sur l’équilibre et le bien-être. Grâce à nos produits CBD et de vape, chaque instant peut devenir une opportunité de vous recentrer et de savourer la vie pleinement."
+                    ]
+                },
+                {
+                    "title": "Comment le CBD peut favoriser un esprit calme et un corps détendu",
+                    "texts": [
+                        "Le CBD, reconnu pour ses propriétés apaisantes, peut être un allié précieux pour combattre le stress et améliorer votre bien-être. Nos fleurs et résines de CBD sont sélectionnées pour leur qualité exceptionnelle, vous offrant une détente naturelle et légale, adaptée à tous les moments de votre journée."
+                    ]
+                },
+                {
+                    "title": "La vape comme une alternative élégante et moderne",
+                    "texts": [
+                        "La vape représente bien plus qu’un simple outil ; elle est devenue une véritable expression de style. Chez Sabulle, nous proposons des e-liquides premium et des pods modernes qui combinent technologie de pointe et design raffiné, pour une expérience à la fois sensorielle et esthétique."
+                    ]
+                },
+
+                {
+                    "title": "Exemples concrets d’utilisation des produits Sabulle",
+                    "texts": [
+                        "- Une pause détente : Dégustez une fleur de CBD après une journée stressante pour un moment de calme.",
+                        "- Une soirée conviviale : Partagez l’expérience de la vape avec des amis grâce à nos e-liquides variés.",
+                        "- Une routine bien-être : Intégrez nos produits à votre quotidien pour des instants de sérénité au naturel."
+                    ]
+                },
+
+                {
+                    "title": "Conclusion",
+                    "texts": [
+                        "Adopter les produits Sabulle, c’est embrasser un mode de vie où luxe et sérénité se côtoient harmonieusement. Transformez votre quotidien en une expérience riche en sensations et en bien-être. Laissez Sabulle vous accompagner dans cette quête d’équilibre et de raffinement."
+                    ]
+                }
+
+            ]
+        },
+
+        {
+            "id": 3,
+            "title": "3) Découvrez notre Gamme CBD : Des Fleurs aux Résines Premium",
+            "description": "L’importance de choisir un CBD de qualité Dans un marché en plein essor, il est essentiel de privilégier un CBD de haute qualité pour profiter pleinement de ses bienfaits. Chez...",
+            "date": "1 février 2025",
+            "image": "/Ecrin_bulle/blog/blog3.webp",
+            "content": [
+                {
+                    "title": "L’importance de choisir un CBD de qualité",
+                    "texts": [
+                        "Dans un monde où tout va vite, prendre soin de soi est devenu une priorité. Sabulle vous invite à adopter un art de vivre axé sur l’équilibre et le bien-être. Grâce à nos produits CBD et de vape, chaque instant peut devenir une opportunité de vous recentrer et de savourer la vie pleinement."
+                    ]
+                },
+                {
+                    "title": "Présentation de la gamme : fleurs, résines, huiles",
+                    "texts": [
+                        "Le CBD, reconnu pour ses propriétés apaisantes, peut être un allié précieux pour combattre le stress et améliorer votre bien-être. Nos fleurs et résines de CBD sont sélectionnées pour leur qualité exceptionnelle, vous offrant une détente naturelle et légale, adaptée à tous les moments de votre journée."
+                    ]
+                },
+                {
+                    "title": "Pourquoi notre sélection est unique",
+                    "texts": [
+                        "La vape représente bien plus qu’un simple outil ; elle est devenue une véritable expression de style. Chez Sabulle, nous proposons des e-liquides premium et des pods modernes qui combinent technologie de pointe et design raffiné, pour une expérience à la fois sensorielle et esthétique."
+                    ]
+                },
+
+                {
+                    "title": "Conseils d’utilisation et mise en avant des packs professionnels",
+                    "texts": [
+                        "Nos produits s’adaptent à vos besoins :",
+                        "- Pour une détente maximale, savourez nos fleurs en infusion ou vaporisation.",
+                        "- Nos résines premium sont idéales pour des moments de relaxation profonde.",
+                        "- Découvrez nos packs professionnels, parfaits pour les revendeurs cherchant à proposer une gamme de qualité supérieure."
+                    ]
+                },
+
+                {
+                    "title": "Conclusion",
+                    "texts": [
+                        "Chez Sabulle, nous croyons que chaque produit doit être une invitation à l’évasion et à la sérénité. Notre sélection de CBD, combinant qualité, légalité et raffinement, est pensée pour répondre à toutes vos attentes. Plongez dans notre univers et explorez dès maintenant une gamme qui fera de chaque moment une expérience unique."
+                    ]
+                }
+
+            ]
+        }
+    ],
+    "recettecbd": [
+        {
+            "id": 1,
+            "title": "1) Brownies au CBD : La douceur qui vous détend",
+            "description": "Envie de savourer une pause gourmande tout en bénéficiant des bienfaits du CBD ? Découvrez notre recette de brownies au CBD, une combinaison parfaite entre plaisir chocolaté et relaxation. Ce dessert...",
+            "date": "1 janvier 2025",
+            "image": "/Ecrin_bulle/recettes/recette1.webp",
+            "content": [
+                {
+                    
+                    "texts": [
+                        "Envie de savourer une pause gourmande tout en bénéficiant des bienfaits du CBD ? Découvrez notre recette de brownies au CBD,une combinaison parfaite entre plaisir chocolaté et relaxation. Ce dessert moelleux et fondant séduira les amateurs de douceurs réconfortantes. Facile à réaliser, il est idéal pour un goûter ou une fin de repas tout en sérénité."
+                    ]
+                },
+                {
+                    "title": "Ingrédients *(pour 8 personnes)*",
+                    "texts": [
+                        "- 200 g de chocolat noir pâtissier",
+                        "- 150 g de beurre doux",
+                        "- 150 g de sucre en poudre",
+                        "- 3 œufs",
+                        "- 70 g de farine",
+                        "- 2 cuillères à soupe d’huile au CBD Sabulle (ou la dose recommandée)",
+                        "- 1 pincée de sel"
+                        
+                    ]
+                },
+                {
+                    "title": "Instructions",
+                    "texts": [
+                        ""
+                        
+                    ]
+                },
+
+                {
+                    "title": "1. **Préparation du chocolat** : ",
+                    "texts": [
+                        "Préchauffez votre four à 180°C (thermostat 6). Faites fondre le chocolat noir avec le beurre au bain-marie ou au micro-ondesen remuant régulièrement pour obtenir une texture lisse."
+                        
+                    ]
+                },
+
+                {
+                    "title": "2. **Mélange des ingrédients** : ",
+                    "texts": [
+                        "Dans un grand bol, battez les œufs et le sucre jusqu’à obtenir une préparation mousseuse. Incorporez doucement le mélange chocolat-beurre fondu."
+                        
+                    ]
+                },
+
+                {
+                    "title": "3. **Ajout de la farine et du CBD** :  ",
+                    "texts": [
+                        "Tamisez la farine et ajoutez-la progressivement au mélange tout en remuant. Ajoutez ensuite l’huile au CBD Sabulle et une pincée de sel. Mélangez jusqu’à homogénéité."
+                        
+                    ]
+                },
+
+                {
+                    "title": "4. **Cuisson des brownies** : ",
+                    "texts": [
+                        "Versez la pâte dans un moule carré ou rectangulaire, préalablement beurré ou recouvert de papier cuisson. Enfournez pour 20 à 25 minutes. Les brownies doivent être légèrement craquelés en surface et encore fondants à l’intérieur."
+                        
+                    ]
+                },
+
+                {
+                    "title": "5. **Repos et découpe** : ",
+                    "texts": [
+                        "Laissez refroidir avant de découper en carrés. Servez accompagné d’un verre de lait ou d’un thé au CBD pour une expérience complète de détente."
+                        
+                    ]
+                }
+
+            ]
+        },
+        {
+            "id": 2,
+            "title": "2) Cookies moelleux aux pépites de chocolat et CBD",
+            "description": "Les cookies moelleux aux pépites de chocolat et CBD sont la collation parfaite pour tous les amateurs de douceurs gourmandes. Avec leur texture fondante et leur saveur irrésistible, ils sont...",
+            "date": "8 janvier 2025",
+            "image": "/Ecrin_bulle/recettes/recette2.webp",
+            "content": [
+                {
+                    "texts": [
+                        "Les cookies moelleux aux pépites de chocolat et CBD sont la collation parfaite pour tous les amateurs de douceurs gourmandes. Avec leur texture fondante et leur saveur irrésistible, ils sont enrichis d’une touche de CBD pour une pause encore plus apaisante. Idéal pour partager entre amis ou savourer seul, ce classique revisité deviendra vite un favori."
+                    ]
+                },
+                {
+                    "title": "Ingrédients *(pour 12 cookies)*",
+                    "texts": [
+                        "- 250 g de farine",
+                        "- 1 cuillère à café de levure chimique",
+                        "- 125 g de beurre doux mou",
+                        "- 100 g de sucre roux",
+                        "- 100 g de sucre blanc",
+                        "- 1 œuf",
+                        "- 2 cuillères à soupe d’huile au CBD Sabulle (ou la dose recommandée)",
+                        "- 150 g de pépites de chocolat noir ou au lait",
+                        "- 1 pincée de sel"
+                    ]
+                },
+                {
+                    "title": "Instructions",
+                    "texts": [
+                        "1. **Préparation de la pâte** : Préchauffez votre four à 180°C (thermostat 6). Dans un grand bol, mélangez le beurre mou avec les sucres jusqu’à obtenir une consistance crémeuse. Ajoutez l’œuf et l’huile au CBD Sabulle, puis mélangez bien.",
+                        "2. **Ajout des ingrédients secs** : Tamisez la farine, la levure et le sel, puis incorporez-les au mélange précédent. Ajoutez les pépites de chocolat et mélangez doucement pour les répartir uniformément.",
+                        "3. **Formation des cookies** : Formez des boules de pâte (environ la taille d’une noix) et disposez-les sur une plaque recouverte de papier cuisson en les espaçant bien. Aplatissez légèrement chaque boule avec le dos d’une cuillère.",
+                        "4. **Cuisson des cookies** : Faites cuire au four pendant 10 à 12 minutes, jusqu’à ce que les bords soient légèrement dorés. Laissez refroidir quelques minutes sur la plaque avant de les transférer sur une grille.",
+                        "5. **Dégustation** : Savourez vos cookies moelleux encore tièdes pour profiter pleinement des pépites fondantes et de l’effet relaxant du CBD."
+                    ]
+                },
+                {
+                    "title": "Conseils",
+                    "texts": [
+                        "- Pour plus de croquant, ajoutez des éclats de noix ou des noisettes à la pâte.",
+                        "- Vous pouvez utiliser des pépites de chocolat blanc ou au caramel pour varier les saveurs."
+                    ]
+                },
+                {
+                    "texts": [
+                        "Ces cookies moelleux aux pépites de chocolat et CBD sont une véritable invitation à la détente et à la gourmandise. Parfaits pour les pauses café ou les goûters improvisés, ils allient plaisir et bien-être. Testez-les pour un moment de douceur irrésistible signé Sabulle !"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "3) Gâteau marbré vanille-chocolat infusé au CBD",
+            "description": "Le gâteau marbré vanille-chocolat infusé au CBD est un classique revisité qui ravira les amateurs de douceurs élégantes et apaisantes. Avec son motif tourbillonnant de chocolat et de vanille, ce dessert offre une expérience visuelle et gustative unique, parfaite pour un goûter raffiné ou une occasion spéciale.",
+            "date": "15 janvier 2025",
+            "image": "/Ecrin_bulle/recettes/recette3.webp",
+            "content": [
+                {
+                    "texts": [
+                        "Le gâteau marbré vanille-chocolat infusé au CBD est un classique revisité qui ravira les amateurs de douceurs élégantes et apaisantes. Avec son motif tourbillonnant de chocolat et de vanille, ce dessert offre une expérience visuelle et gustative unique, parfaite pour un goûter raffiné ou une occasion spéciale."
+                    ]
+                },
+                {
+                    "title": "Ingrédients *(pour 6 à 8 personnes)*",
+                    "texts": [
+                        "- 200 g de farine",
+                        "- 1 cuillère à café de levure chimique",
+                        "- 100 g de beurre doux",
+                        "- 150 g de sucre en poudre",
+                        "- 3 œufs",
+                        "- 1 cuillère à soupe d’extrait de vanille",
+                        "- 50 g de cacao en poudre",
+                        "- 2 cuillères à soupe d’huile au CBD Sabulle (ou la dose recommandée)",
+                        "- 10 cl de lait",
+                        "- 1 pincée de sel"
+                    ]
+                },
+                {
+                    "title": "Instructions",
+                    "texts": [
+                        "1. **Préparation de la pâte** : Préchauffez votre four à 180°C (thermostat 6). Dans un grand bol, mélangez le beurre et le sucre jusqu’à obtenir une texture crémeuse. Ajoutez les œufs un à un tout en mélangeant. Incorporez ensuite l’huile au CBD et l’extrait de vanille.",
+                        "2. **Ajout des ingrédients secs** : Tamisez la farine, la levure et le sel. Ajoutez-les au mélange précédent en alternant avec le lait pour obtenir une pâte lisse et homogène.",
+                        "3. **Séparation et marbrage** : Divisez la pâte en deux portions égales. Dans une moitié, incorporez le cacao en poudre. Dans un moule préalablement beurré, alternez des couches de pâte vanille et chocolat. À l’aide d’un couteau, réalisez des tourbillons pour créer le motif marbré.",
+                        "4. **Cuisson du gâteau** : Enfournez pour environ 35 à 40 minutes. Vérifiez la cuisson en insérant la pointe d’un couteau : elle doit ressortir sèche. Laissez refroidir avant de démouler.",
+                        "5. **Dégustation** : Servez votre gâteau marbré en tranches épaisses, accompagné d’un thé ou d’un café pour un moment de douceur et de relaxation."
+                    ]
+                },
+                {
+                    "title": "Conseils",
+                    "texts": [
+                        "- Pour une touche gourmande supplémentaire, nappez le gâteau de chocolat fondu.",
+                        "- Ajustez la quantité de cacao selon vos préférences pour un goût plus ou moins intense."
+                    ]
+                },
+                {
+                    "texts": [
+                        "Ce gâteau marbré vanille-chocolat infusé au CBD est un mélange parfait d’élégance et de gourmandise. Laissez-vous séduire par son effet apaisant et son goût irrésistible, pour un instant de bonheur signé Sabulle."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "4) Fondant au chocolat noir et CBD : Pure indulgence",
+            "description": "Le fondant au chocolat noir et CBD est une véritable déclaration d’amour aux amateurs de desserts riches et gourmands. Avec son cœur coulant et sa touche de CBD, ce dessert offre un moment d’indulgence totale et de relaxation. Parfait pour les dîners sophistiqués ou une soirée cocooning.",
+            "date": "22 janvier 2025",
+            "image": "/Ecrin_bulle/recettes/recette4.webp",
+            "content": [
+                {
+                    "texts": [
+                        "Le fondant au chocolat noir et CBD est une véritable déclaration d’amour aux amateurs de desserts riches et gourmands. Avec son cœur coulant et sa touche de CBD, ce dessert offre un moment d’indulgence totale et de relaxation. Parfait pour les dîners sophistiqués ou une soirée cocooning."
+                    ]
+                },
+                {
+                    "title": "Ingrédients *(pour 4 personnes)*",
+                    "texts": [
+                        "- 200 g de chocolat noir pâtissier",
+                        "- 150 g de beurre doux",
+                        "- 100 g de sucre en poudre",
+                        "- 3 œufs",
+                        "- 50 g de farine",
+                        "- 2 cuillères à soupe d’huile au CBD Sabulle (ou la dose recommandée)",
+                        "- 1 pincée de sel"
+                    ]
+                },
+                {
+                    "title": "Instructions",
+                    "texts": [
+                        "1. **Préparation du chocolat** : Préchauffez votre four à 200°C (thermostat 6-7). Faites fondre le chocolat et le beurre au bain-marie ou au micro-ondes en remuant régulièrement jusqu’à obtenir une texture lisse.",
+                        "2. **Mélange des ingrédients** : Dans un grand bol, battez les œufs et le sucre jusqu’à ce que le mélange blanchisse. Ajoutez le chocolat fondu, l’huile au CBD, puis incorporez délicatement la farine et la pincée de sel.",
+                        "3. **Remplissage des moules** : Beurrez et farinez légèrement des ramequins individuels. Remplissez-les aux trois quarts avec la préparation.",
+                        "4. **Cuisson rapide** : Enfournez les ramequins pour 8 à 10 minutes seulement. Les bords doivent être cuits, mais le centre reste coulant. Sortez-les du four et laissez reposer 1 minute avant de démouler délicatement.",
+                        "5. **Dégustation** : Servez immédiatement, accompagné d’une boule de glace à la vanille ou d’un coulis de fruits rouges pour un contraste délicieux."
+                    ]
+                },
+                {
+                    "title": "Conseils",
+                    "texts": [
+                        "- Ajustez le temps de cuisson pour un cœur plus ou moins coulant selon vos goûts.",
+                        "- Pour un effet encore plus gourmand, ajoutez une pincée de fleur de sel sur le dessus avant de servir."
+                    ]
+                },
+                {
+                    "texts": [
+                        "Ce fondant au chocolat noir et CBD est un dessert de luxe qui combine le plaisir intense du chocolat et les bienfaits relaxants du CBD. Un incontournable pour impressionner vos invités ou vous offrir un moment de pur bonheur."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "5) Tartelette citron-cannelle au CBD : Une pause zen",
+            "description": "La tartelette citron-cannelle au CBD est une délicieuse alliance de saveurs fraîches et épicées qui éveillera vos sens tout en vous offrant un moment de sérénité. Parfaite pour une pause...",
+            "date": "29 janvier 2025",
+            "image": "/Ecrin_bulle/recettes/recette5.webp",
+            "content": [
+                {
+                    "texts": [
+                        "La tartelette citron-cannelle au CBD est une délicieuse alliance de saveurs fraîches et épicées qui éveillera vos sens tout en vous offrant un moment de sérénité. Parfaite pour une pause gourmande, elle combine une base croustillante, une crème au citron onctueuse et une pointe subtile de cannelle."
+                    ]
+                },
+                {
+                    "title": "Ingrédients *(pour 6 tartelettes)*",
+                    "texts": [
+                        "- 200 g de farine",
+                        "- 100 g de beurre froid coupé en dés",
+                        "- 1 œuf",
+                        "- 3 citrons (jus et zestes)",
+                        "- 100 g de sucre en poudre",
+                        "- 2 œufs pour la crème",
+                        "- 1 cuillère à soupe de cannelle en poudre",
+                        "- 2 cuillères à soupe d’huile au CBD Sabulle (ou la dose recommandée)",
+                        "- Une pincée de sel"
+                    ]
+                },
+                {
+                    "title": "Instructions",
+                    "texts": [
+                        "1. **Préparation de la pâte sablée** :   Mélangez la farine, le sucre glace et une pincée de sel dans un grand bol. Ajoutez le beurre et travaillez-le du bout des doigts jusqu’à obtenir une texture sableuse. Incorporez l’œuf et formez une boule de pâte. Réfrigérez pendant 30 minutes.",
+                        "2. **Cuisson des fonds de tarte** :   Étalez la pâte et découpez des cercles pour garnir vos moules à tartelettes. Piquez le fond avec une fourchette et faites cuire à blanc à 180°C (thermostat 6) pendant 15 minutes.",
+                        "3. **Préparation de la crème citron-cannelle au CBD** : Dans une casserole, mélangez le jus et les zestes de citron, le sucre, les œufs, la cannelle et l’huile au CBD. Faites chauffer à feu doux en remuant constamment jusqu’à épaississement. Retirez du feu et laissez tiédir.",
+                        "4. **Assemblage des tartelettes** : Remplissez les fonds de tarte avec la crème citron-cannelle. Lissez la surface et réfrigérez pendant au moins 1 heure avant de servir.",
+                        "5. **Dégustation** : Servez immédiatement, accompagné d’une boule de glace à la vanille ou d’un coulis de fruits rouges pour un contraste délicieux."
+                    ]
+                },
+                {
+                    "title": "Conseils",
+                    "texts": [
+                        "- Ajustez le temps de cuisson pour un cœur plus ou moins coulant selon vos goûts.",
+                        "- Pour un effet encore plus gourmand, ajoutez une pincée de fleur de sel sur le dessus avant de servir."
+                    ]
+                },
+                {
+                    "texts": [
+                        "Ce fondant au chocolat noir et CBD est un dessert de luxe qui combine le plaisir intense du chocolat et les bienfaits relaxants du CBD. Un incontournable pour impressionner vos invités ou vous offrir un moment de pur bonheur."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "6) Pancakes protéinés au CBD pour un brunch healthy",
+            "description": "Rien de tel qu’une pile de pancakes moelleux pour commencer la journée ou pour un brunch gourmand. Avec cette version protéinée et enrichie au CBD, profitez d’un petit-déjeuner équilibré et...",
+            "date": "5 février 2025",
+            "image": "/Ecrin_bulle/recettes/recette6.webp",
+            "content": [
+                {
+                    "texts": [
+                        "Rien de tel qu’une pile de pancakes moelleux pour commencer la journée ou pour un brunch gourmand. Avec cette version protéinée et enrichie au CBD, profitez d’un petit-déjeuner équilibré et relaxant, parfait pour bien démarrer la journée."
+                    ]
+                },
+                {
+                    "title": "Ingrédients *(pour 4 personnes)*",
+                    "texts": [
+                        "- 150 g de farine complète",
+                        "- 1 cuillère à café de levure chimique",
+                        "- 30 g de poudre de protéines (vanille ou nature)",
+                        "- 2 cuillères à soupe de sucre de coco",
+                        "- 2 œufs",
+                        "- 20 cl de lait d’amande (ou autre lait végétal)",
+                        "- 1 cuillère à soupe d’huile au CBD Sabulle (ou la dose recommandée)",
+                        "- 1 pincée de sel",
+                        "- Fruits frais et sirop d’érable pour la garniture"
+                    ]
+                },
+                {
+                    "title": "Instructions",
+                    "texts": [
+                        "1. **Préparation de la pâte à pancakes** : Dans un bol, mélangez la farine, la levure, la poudre de protéines, le sucre de coco et une pincée de sel. Dans un autre bol, battez les œufs avec le lait d’amande et l’huile au CBD. Incorporez les ingrédients liquides aux ingrédients secs et mélangez jusqu’à obtenir une pâte lisse.",
+                        "2. **Cuisson des pancakes** : Faites chauffer une poêle antiadhésive à feu moyen. Versez une petite louche de pâte pour chaque pancake. Faites cuire 2-3 minutes jusqu’à ce que des bulles apparaissent à la surface, puis retournez et faites cuire encore 1-2 minutes.",
+                        "3. **Assemblage des pancakes** : Empilez les pancakes dans une assiette. Garnissez-les de fruits frais comme des baies, des rondelles de banane ou des tranches de kiwi. Ajoutez un filet de sirop d’érable pour une touche gourmande.",
+                        "4. **Dégustation** : Servez immédiatement et savourez ces pancakes protéinés au CBD pour un moment de détente et d’énergie."
+                    ]
+                },
+                {
+                    "title": "Conseils",
+                    "texts": [
+                        "- Ajoutez des graines de chia ou des flocons d’avoine à la pâte pour plus de texture.",
+                        "- Variez les fruits de garniture selon la saison."
+                    ]
+                },
+                {
+                    "texts": [
+                        "Ces pancakes protéinés au CBD sont l’alliance parfaite entre gourmandise et équilibre. Ils apportent énergie et sérénité à vos matins, pour un brunch ou un petit-déjeuner sain et savoureux signé Sabulle."
+                    ]
+                }
+            ]
+        },
+        
+        {
+            "id":7,
+            "title": "7) Granola maison au CBD : Bien-être au petit-déjeuner",
+            "description": "Le granola maison au CBD est une option saine et délicieuse pour commencer la journée avec énergie et sérénité. Facile à préparer, il est parfait pour accompagner un yaourt, un...",
+            "date": "12 février 2025",
+            "image": "/Ecrin_bulle/recettes/recette7.webp",
+            "content": [
+                {
+                    "texts": [
+                        "Le granola maison au CBD est une option saine et délicieuse pour commencer la journée avec énergie et sérénité. Facile à préparer, il est parfait pour accompagner un yaourt, un bol de lait ou une compote de fruits."
+                    ]
+                },
+                {
+                    "title": "Ingrédients *(pour environ 500 g de granola)*",
+                    "texts": [
+                        "- 200 g de flocons d’avoine",
+                        "- 50 g d’amandes effilées",
+                        "- 50 g de noisettes concassées",
+                        "- 30 g de graines de chia",
+                        "- 50 g de fruits secs (raisins, cranberries ou abricots)",
+                        "- 3 cuillères à soupe de miel ou sirop d’agave",
+                        "- 2 cuillères à soupe d’huile au CBD Sabulle (ou la dose recommandée)",
+                        "- 1 cuillère à café de cannelle en poudre",
+                        "- Une pincée de sel"
+                    ]
+                },
+                {
+                    "title": "Instructions",
+                    "texts": [
+                        "1. **Préparation du mélange sec** : Dans un grand bol, mélangez les flocons d’avoine, les amandes, les noisettes, les graines de chia, la cannelle et une pincée de sel.",
+                        "2. **Ajout des ingrédients liquides** : Faites chauffer légèrement le miel ou le sirop d’agave avec l’huile au CBD jusqu’à obtenir un mélange homogène. Versez ce mélange sur les ingrédients secs et mélangez bien pour enrober uniformément.",
+                        "3. **Cuisson du granola** : Étalez le mélange sur une plaque de cuisson recouverte de papier sulfurisé. Faites cuire au four à 160°C (thermostat 5) pendant environ 25 minutes, en remuant toutes les 10 minutes pour une cuisson uniforme.",
+                        "4. **Ajout des fruits secs** : Une fois le granola refroidi, ajoutez les fruits secs. Mélangez bien et transférez dans un bocal hermétique pour une conservation optimale.",
+                        "5. **Dégustation** : Servez votre granola maison au CBD avec du yaourt, du lait ou une compote de fruits pour un petit-déjeuner complet et apaisant."
+                    ]
+                },
+                {
+                    "title": "Conseils",
+                    "texts": [
+                        "- Ajoutez des graines de courge ou de tournesol pour plus de croquant.",
+                        "- Variez les fruits secs selon vos goûts et les saisons."
+                    ]
+                },
+                {
+                    "texts": [
+                        "Ce granola maison au CBD est une alternative saine et gourmande pour un petit-déjeuner équilibré. Facile à personnaliser selon vos envies, il allie saveurs et bienfaits pour bien démarrer la journée avec Sabulle."
+                    ]
+                }
+            ]
+        }
+    ],
+    "actualites": [
+        {   
+            "id": 1,
+            "title": "SaBulle: l'actualité n°1",
+            "description": "1. Les dernières tendances du CBD en France : Ce que vous devez savoir Le marché du CBD en France est en pleine croissance, porté par des consommateurs de plus...",
+            "date": "2 janvier 2025",
+            "image": "/Ecrin_bulle/actualites/actue1.webp",
+            "content": [
+                {
+                    "title": "1. Les dernières tendances du CBD en France : Ce que vous devez savoir",
+                    "texts": [
+                        "Le marché du CBD en France est en pleine croissance, porté par des consommateurs de plus en plus informés et des innovations régulières dans le domaine. En 2024, les récentes régulations renforcent la légalité et la transparence autour des produits à base de CBD, offrant ainsi une plus grande confiance aux utilisateurs.",
+                        "Chez Sabulle, nous avons enrichi notre gamme avec de nouveaux produits répondant aux attentes du marché : des fleurs de CBD aux saveurs variées, des huiles sublinguales pures et des résines concentrées. Ces nouveautés sont soigneusement sélectionnées pour garantir une qualité premium et une conformité légale totale. Explorez l’univers du CBD avec des produits pensés pour votre bien-être."
+                    ]
+                },
+                {
+                    "title": "2. Les e-liquides et la vape en 2024 : Innovations et nouveaux produits Sabulle",
+                    "texts": [
+                        "L’année 2024 marque une avancée significative dans le monde de la vape, avec des innovations technologiques et des formulations d’e-liquides encore plus performantes. En France, l’intérêt pour la vape continue de croître, porté par un public souhaitant réduire ou arrêter leur consommation de tabac.",
+                        "Sabulle se distingue en proposant des e-liquides aux saveurs classiques, fruitées et gourmandes, ainsi que des pods modernes comme le Pod Drag et le clearomiseur PnP-X. Ces dispositifs offrent une expérience personnalisable, que vous soyez adepte du MTL ou du DTL. Découvrez nos dernières créations et transformez votre expérience de vape."
+                    ]
+                },
+                {
+                    "title": "3. Le Sabulle Club : Découvrez l’abonnement qui révolutionne votre quotidien",
+                    "texts": [
+                        "Rejoindre le Sabulle Club, c’est entrer dans un univers d’avantages exclusifs et d’expériences uniques. En 2024, les abonnements sont devenus un moyen privilégié pour les consommateurs de bénéficier d’un service sur-mesure.",
+                        "Avec le Sabulle Club, profitez de remises permanentes, de livraisons prioritaires et de sélections personnalisées. Nos abonnés reçoivent également des cadeaux surprises et accèdent en avant-première à nos nouvelles gammes. Faites partie d’une communauté où luxe et bien-être se rencontrent."
+                    ]
+                },
+
+                {
+                    "title": "4. L’écologie et le chanvre : Comment Sabulle s’engage pour un avenir durable",
+                    "texts": [
+                        "Face aux enjeux environnementaux, Sabulle s’engage à intégrer des pratiques durables dans chaque étape de sa production. Le chanvre, reconnu pour ses propriétés écologiques, est au cœur de notre démarche. En France, l’utilisation du chanvre dans la mode et les produits de bien-être connaît une popularité grandissante.",
+                        "Découvrez notre collection de vêtements en chanvre, conçus pour allier style, confort et respect de l’environnement. Chez Sabulle, chaque produit reflète notre engagement envers un avenir durable."
+                        
+                    ]
+                },
+
+                {
+                    "title": "5. Les bienfaits du CBD pour la relaxation en hiver : Nouveautés Sabulle",
+                    "texts": [
+                        "L’hiver est souvent synonyme de stress et de fatigue. Heureusement, le CBD peut jouer un rôle clé pour améliorer votre bien-être durant cette saison. En 2024, les consommateurs français s’intéressent de plus en plus aux bienfaits naturels du CBD.",
+                        "Sabulle propose des fleurs de CBD aux arômes apaisants, des huiles sublinguales pour un effet rapide et des bougies de massage idéales pour se détendre après une journée froide. Offrez-vous une pause bien méritée avec nos produits soigneusement conçus pour vous accompagner tout au long de l’hiver."
+                    ]
+                }
+
+            ]
+        }
+        
+    ]
+}
