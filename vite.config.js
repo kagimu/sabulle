@@ -14,4 +14,16 @@ export default defineConfig({
             "/api": "http://localhost:3000", // Backend proxy
         },
     },
+    build: {
+        rollupOptions: {
+            output: {
+                manualChunks: undefined,
+            },
+        },
+    },
+    resolve: {
+        alias: {
+            '@': '/src',
+        },
+    },
 });
