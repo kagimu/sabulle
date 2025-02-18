@@ -1,7 +1,7 @@
 import React, { useState, useContext, useEffect } from "react";
 import { Context } from "../App.jsx";
 import { BrowserRouter, NavLink } from "react-router-dom";
-import List_header from "./small_comp/list_header.jsx";
+import List_header from "./small_comp/List_header.jsx";
 
 function App({ navigationItems, user }) {
     const [isOpen, setIsOpen] = useState(false);
