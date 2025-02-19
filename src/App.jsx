@@ -10,7 +10,7 @@ import CategoryDescription from "./components/product-grid/CategoryDescription";
 import ProductGrid from "./components/product-grid/ProductGrid";
 import Footer from "./components/Footer";
 import Cart from "./components/cart/Cart";
-import ProductPage from "./components/product-page/ProductPage";
+
 import Acceuil from './components/Acceuil';
 import Abonnement from "./components/Abonnement";
 import Contact from "./components/Contact";
@@ -99,7 +99,7 @@ function App() {
                                     </>
                                 }
                             />
-                            <Route path="/products/:id" element={<ProductPage />} />
+                            
                             <Route path="/acceuil" element={<Acceuil />} />
                             <Route path="/register" element={<Register setUser={setUser} />} />
                             <Route path="/login" element={<Login setUser={setUser} />} />
