@@ -6,8 +6,8 @@
     "scripts": {
         "start": "concurrently \"npm run react\" \"npm run api\"",
         "react": "vite",
-        "api": "cd src/api && npm start",
-        "build": "vite build"
+        "api": "cd src/api && npm start"
+        
         
     },
     "dependencies": {
