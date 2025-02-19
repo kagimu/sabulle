@@ -6,7 +6,9 @@
     "scripts": {
         "start": "concurrently \"npm run react\" \"npm run api\"",
         "react": "vite",
-        "api": "cd src/api && npm start"
+        "api": "cd src/api && npm start",
+        "build": "vite build"
+        
     },
     "dependencies": {
         "@versoly/react-taos": "^0.1.0",
