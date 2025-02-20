@@ -10,13 +10,14 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 import { VIVA_BASE_URL, VIVA_API_KEY, VIVA_SOURCE_CODE } from "./vivaConfig.js";
 // Configure CORS
-const corsOptions = {
-    origin: "http://localhost:5173", // Update this to your frontend URL
-    optionsSuccessStatus: 200,
-    credentials: true,
-};
+app.use(cors({
+    origin: process.env.NODE_ENV === 'production' 
+      ? 'https://ecommerce-site-main2-main.vercel.app' // Replace with your actual Vercel domain
+      : 'http://localhost:3000',
+    credentials: true
+  }));
 
-app.use(cors(corsOptions));
+
 app.use(express.json());
 
 app.use("/api/auth", authRoutes);
