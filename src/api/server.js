@@ -12,6 +12,7 @@ import { VIVA_BASE_URL, VIVA_API_KEY, VIVA_SOURCE_CODE } from "./vivaConfig.js";
 // Configure CORS
 app.use(cors({
     origin: process.env.NODE_ENV === 'production' 
+    
       ? 'https://ecommerce-site-main2-main.vercel.app' // Replace with your actual Vercel domain
       : 'http://localhost:3000',
     credentials: true
