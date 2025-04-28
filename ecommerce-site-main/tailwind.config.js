@@ -3,10 +3,7 @@ import tailwindcssMotion from 'tailwindcss-motion';
 
 export default {
     
-    content: [
-        "./src/**/*.{js,jsx,ts,tsx}", 
-        "./index.html", 
-      ],
+    content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
     theme: {
         extend: {
             fontFamily: {

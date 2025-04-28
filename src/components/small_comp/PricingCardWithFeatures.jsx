@@ -8,7 +8,7 @@ import { VIVA_BASE_URL, VIVA_API_KEY, VIVA_SOURCE_CODE } from "../../api/vivaCon
 
 
 export const createPayment = async (amount, email) => {
-  const response = await fetch("/api/pay", {
+  const response = await fetch("http://localhost:5173/api/pay", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ amount, customerEmail: email }),

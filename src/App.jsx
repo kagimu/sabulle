@@ -10,6 +10,7 @@ import CategoryDescription from "./components/product-grid/CategoryDescription";
 import ProductGrid from "./components/product-grid/ProductGrid";
 import Footer from "./components/Footer";
 import Cart from "./components/cart/Cart";
+import AgeVerificationPopup from "./components/Ageverificationpopup.jsx";
 
 import Acceuil from './components/Acceuil';
 import Abonnement from "./components/Abonnement";
@@ -42,6 +43,7 @@ function App() {
 
     return (
         <ObserverProvider>
+         <AgeVerificationPopup />
             <Context.Provider value={[cartCounter, setCartCounter]}>
                 <div className="flex flex-col min-h-screen">
                 {/* <AnnouncementBar title="Free Shipping in Europe" />*/}
