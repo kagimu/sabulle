@@ -12,12 +12,12 @@ const Register = ({ setUser }) => {
     const handleRegister = async (e) => {
         e.preventDefault();
         try {
-            const response = await axios.post("http://localhost:3000/api/auth/register", { username, email, password });
+            const response = await axios.post("http://localhost:5173/api/auth/register", { username, email, password });
             if (response && response.data) {
                 setMessage(response.data.message);
 
                 // Automatically log in the user after successful registration
-                const loginResponse = await axios.post("http://localhost:3000/api/auth/login", { email, password });
+                const loginResponse = await axios.post("http://localhost:5173/api/auth/login", { email, password });
                 if (loginResponse && loginResponse.data) {
                     localStorage.setItem("token", loginResponse.data.token);
                     const decodedToken = jwtDecode(loginResponse.data.token);

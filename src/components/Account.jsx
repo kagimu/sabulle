@@ -20,7 +20,7 @@ const Account = ({ setUser }) => {
 
     const fetchOrders = async (userId) => {
         try {
-            const response = await axios.get(`http://localhost:3000/api/orders/${userId}`);
+            const response = await axios.get(`http://localhost:5173/api/orders/${userId}`);
             setOrders(response.data);
         } catch (error) {
             console.error("Error fetching orders:", error);
@@ -29,7 +29,7 @@ const Account = ({ setUser }) => {
 
     const handleLogout = async () => {
         try {
-            await axios.post("http://localhost:3000/api/auth/logout", {}, { withCredentials: true });
+            await axios.post("http://localhost:5173/api/auth/logout", {}, { withCredentials: true });
             Cookies.remove("token");
             setUser(null);
             navigate("/login");
